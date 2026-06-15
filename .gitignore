@@ -1,0 +1,14 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+
+.venv
+
+ESC-50/
+
+data/spectrograms/
+models/
